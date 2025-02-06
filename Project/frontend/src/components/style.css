@@ -1,0 +1,12 @@
+.container {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    justify-items: center;
+}
+
+.selections {
+    width: 50%;
+    grid-template-columns: 3fr 1fr;
+}
